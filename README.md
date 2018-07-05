@@ -1,6 +1,9 @@
 # Hypothesis Counter
 
-> Light-weight cross-browser add-on to preview the number of [Hypothesis](https://hypothes.is) annotations on the current page
+> Light-weight cross-browser add-on to preview the number of [Hypothesis](https://hypothes.is) annotations
+
+- Quickly see if a page has been annotated
+- Click on the button to annotate yourself
 
 ![](images/hypo-count.gif)
 
